@@ -10,7 +10,6 @@
 * Spring Security
 * Thymeleaf
 * Banco de dados MySQL
-* 
 
 ### Funcionalidades
 * Cadastro de convidados com a quantidade de acompanhantes
